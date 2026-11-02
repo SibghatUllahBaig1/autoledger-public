@@ -13,6 +13,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
+<a href="https://play.google.com/store/apps/details?id=com.developlogix.autoledger&hl=en"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Download_Now-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+
 </div>
 
 > 🔒 **Source code is private** (commercial product). This page is a case study of what I designed and built end to end.
@@ -70,7 +72,7 @@ Vehicle owners and small fleet operators juggle fuel receipts, service history, 
 ## 📸 Screenshots & links
 
 <!-- Add screenshots: <img src="screenshots/home.png" width="220"/> -->
-<!-- Add store badges once published -->
+📲 **[Download AutoLedger on Google Play](https://play.google.com/store/apps/details?id=com.developlogix.autoledger&hl=en)**
 *Screenshots and demo available on request.*
 
 ---
